@@ -1,0 +1,13 @@
+node_modules
+dist
+.env.local
+*.local
+.vercel
+node_modules/
+.env
+**/.env
+node_modules/
+.env
+.env.*
+.vercel/
+numbers_up_to_10_million/
